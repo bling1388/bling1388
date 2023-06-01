@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bling1388
+- 👋 Hi, I’m Besjan Bardhollari and i'm a Web Developer
 - 👀 I’m interested in HTML, CSS, Laravel, PHP, Bootstrap, Tailwind...
 - 🌱 I’m currently learning Vue js
 - 💞️ I’m looking to collaborate on ...
@@ -8,3 +8,5 @@
 bling1388/bling1388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://bmc.link/besjan1388V
