@@ -16,8 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 <p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> &nbsp; my github stats</p>
 
-<p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/bling1388"><img align="left" src="https://github.com/bling1388" alt="Besjan Bardhollari" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bling1388&amp;count_private=true&amp;show_icons=true&amp;theme=swift" style="max-width: 100%;"></a>
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=<bling1388>&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/bling1388"><img src="https://github.com/bling1388" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bling1388" style="max-width: 100%;"></a></p>
