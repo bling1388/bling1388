@@ -16,10 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 <p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> &nbsp; my github stats</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bling1388&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bling1388&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=bling1388&show_icons=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bling1388&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
