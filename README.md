@@ -8,14 +8,39 @@
 bling1388/bling1388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a></code></p>
+<p dir="auto">
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_php_icon" style="max-width: 100%;">
+        </a>
+    </code>
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_laravel_icon" style="max-width: 100%;">
+        </a>
+    </code>
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_jquery_icon" style="max-width: 100%;">
+        </a>
+    </code>
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_bootstrap_icon" style="max-width: 100%;">
+        </a>
+    </code>
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_ajax_icon" style="max-width: 100%;">
+        </a>
+    </code>
+    <code>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="#">
+            <img height="20" src="path_to_vuejs_icon" style="max-width: 100%;">
+        </a>
+    </code>
+</p>
+
 
   <p>If you want you can buy me a coffee</p>
   <a href="https://www.buymeacoffee.com/besjan1388V" rel="nofollow">
